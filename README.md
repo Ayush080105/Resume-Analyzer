@@ -91,6 +91,3 @@ streamlit run app.py
 * Integrate with LinkedIn job scraping
 * Add AI resume generator/fixer
 
----
-
-Let me know if you'd like the actual `requirements.txt` or to publish it on GitHub!
