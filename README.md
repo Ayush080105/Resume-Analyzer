@@ -34,7 +34,7 @@ A simple yet powerful Streamlit-based web app that allows users to upload their 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/resume-analyzer.git
+   git clone https://github.com/Ayush080105/Resume-Analyzer.git
    cd resume-analyzer
    ```
 
